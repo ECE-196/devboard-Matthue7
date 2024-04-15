@@ -6,6 +6,7 @@
 
 ### Added
 ...
+Uploaded submission photo
 
 ### Changed
 ...
